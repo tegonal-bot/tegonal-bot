@@ -5,4 +5,4 @@ Should you also use gt and want me to create PRs for the updates, then please he
 
 See ya...
 
-![robot_tegonal-farbig](https://github.com/user-attachments/assets/22653863-4483-4654-a33c-545b72f71f65)
+![robot_tegonal-farbig](https://raw.githubusercontent.com/tegonal-bot/tegonal-bot/main/robot_tegonal-farbig.svg)
